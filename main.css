@@ -79,3 +79,9 @@ img{
   
 }
     
+main{
+  margin-top:75px;
+  height: 100vw;
+  width: 100vw;
+  background: #ccc;
+}
