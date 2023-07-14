@@ -80,18 +80,10 @@ img{
   gap: 5px;
   
 }
-aside{
-  
-  height:100vh;
-  width: 110px;
-  background:#;
-  
-}
-    
-section{
-  
+
+.conteiner{
   height: 100vh;
   width: 100vw;
-  background: #;
+  background: #a9caii;
   
 }
