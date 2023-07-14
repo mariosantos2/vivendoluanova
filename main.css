@@ -43,6 +43,7 @@ img{
 }
 
 .title{
+  background:#000;
   display: flex;
   align-content: center;
   align-items: center;
@@ -66,6 +67,7 @@ img{
   
 }
 .list{
+  background:#000;
   display:flex;
   padding: 5px;
   gap: 5px;
