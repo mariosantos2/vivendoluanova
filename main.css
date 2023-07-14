@@ -1,5 +1,8 @@
 *{
   margin:0;
+  
+}
+body{
   background: #191919;
 }
 a{
@@ -96,11 +99,10 @@ img{
 }
 .menu_lat{
   margin: 0;
-  display:block;
+  display:;
   height:500px;
   width:12vw;
   background:#000;
-  padding-right: 10px;
   
 }
 .list_lat{
