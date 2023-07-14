@@ -100,6 +100,7 @@ img{
   height:500px;
   width:12vw;
   background:#000;
+  padding-right: 10px;
   
 }
 .list_lat{
@@ -110,5 +111,5 @@ img{
   gap:20px;
   display: block;
   align-items: center;
-  padding-right: 10px;
+  
   
