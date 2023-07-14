@@ -3,7 +3,7 @@
   
 }
 body{
-  background: #191919;
+  background: #191919; 
 }
 a{
   
@@ -114,4 +114,7 @@ img{
   display: block;
   align-items: center;
   
-  
+}
+li{
+  gap:15px;
+}
