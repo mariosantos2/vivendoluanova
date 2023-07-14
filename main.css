@@ -35,6 +35,7 @@ img{
 }
 
 .title{
+  height: 60px;
   width: 80px;
   color:#fff;
   background: red;
