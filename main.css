@@ -105,4 +105,7 @@ img{
   background:#000;
   padding-top: 12px;
   gap:20px;
+  display: block;
+  flex-direction: column;
+  
 }
