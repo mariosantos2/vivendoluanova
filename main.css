@@ -23,7 +23,7 @@ h1{
 
 .logo{
   background: #000;
-  height: 45px;
+  height: 75px;
   width: 300px;
   
   border-radius: 50px;
@@ -31,8 +31,8 @@ h1{
 }
 
 img{
-  height: 45px;
-  width: 45px;
+  height: 65px;
+  width: 65px;
   border-radius:50px;
 }
 .nome{
