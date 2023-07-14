@@ -21,15 +21,14 @@ a{
   height: 45px;
   width: 45px;
   background: red;
+  border-radius: 50px;
   
 }
-.maria{
-  height: 45px;
-  width: 45px;
-}
+
 img{
   height: 45px;
   width: 45px;
+  border-radius:50px;
 }
 .nome{
   font-size: 22px;
