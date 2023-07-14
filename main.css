@@ -87,9 +87,10 @@ aside{
   background:#000;
 }
     
-main{
+section{
   
   height: 100vh;
   width: 100vw;
   background: #ccc;
+  box-shadow: 9px 9px 9px rgba(50, 50, 50, 0.77);
 }
