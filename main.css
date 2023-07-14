@@ -82,7 +82,8 @@ img{
 aside{
   height:100vh;
   width: 110px;
-  background: #c666;
+  background: #000;
+  box-shadow: 9px 9px 9px rgba(50, 50, 50, 0.77);
 }
     
 main{
