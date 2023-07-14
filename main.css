@@ -1,0 +1,50 @@
+*{
+  margin:0;
+  background: #191919;
+}
+a{
+  text-decoration: none;
+  color:#fff;
+  
+}
+.cabecalho{
+  background: #000;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo{
+  background: #000;
+  height: 60px;
+  width: 20vw;
+  background: red;
+  
+}
+.maria{
+  height: 45px;
+  width: 45px;
+}
+.nome{
+  font-size: 22px;
+}
+
+.title{
+  width: 33vw;
+  color:#fff;
+  
+}
+.links{
+  width: 33vw;
+  
+  
+}
+.list{
+  display:flex;
+  padding: 5px;
+  gap: 5px;
+  
+  }
+    
