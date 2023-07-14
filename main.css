@@ -27,7 +27,7 @@ h1{
   padding-left:12px;
   display:flex;
   align-items: center;
-  background: #000;
+  background: #a9cae1;
   height: 80px;
   width: 300px;
   
@@ -46,12 +46,12 @@ img{
   align-content: center;
   align-items: center;
   height: 75px;
-  background:#000;
+  background:#a9cae1;
   
 }
 
 .title{
-  background:#000;
+  background:#a9cae1;
   display: flex;
   align-items: center;
   height: 75px;
@@ -63,7 +63,7 @@ img{
   
 }
 .links{
-  background:#000;
+  background:#a9cae1;
   display: flex;
   align-items: center;
   width: 300px;
@@ -76,7 +76,7 @@ img{
   height:75px;
   width:300px;
   align-items: center;
-  background:#000;
+  background:#a9cae1 ;
   gap: 5px;
   
 }
@@ -84,7 +84,7 @@ aside{
   
   height:100vh;
   width: 110px;
-  background:#000;
+  background:#a9cae1;
   
 }
     
