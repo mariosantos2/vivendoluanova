@@ -1,6 +1,6 @@
 *{
   margin:0;
-  background: #191919;
+  background: #000;
 }
 a{
   text-decoration: none;
@@ -85,6 +85,7 @@ aside{
   height:100vh;
   width: 110px;
   background:#000;
+  box-shadow: 9px 9px 9px rgba(50, 50, 50, 0.77);
 }
     
 section{
@@ -92,5 +93,5 @@ section{
   height: 100vh;
   width: 100vw;
   background: #ccc;
-  box-shadow: 9px 9px 9px rgba(50, 50, 50, 0.77);
+  
 }
