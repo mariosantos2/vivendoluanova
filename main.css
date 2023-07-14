@@ -87,11 +87,7 @@ section{
   display: flex;
   
 }
-.lateral {
-  height:100vh;
-  width: 12vw;
-  background: #000;
-}
+
 #conteiner{
   background:#aaa;
   height: 300px;
