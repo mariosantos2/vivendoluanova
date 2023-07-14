@@ -24,11 +24,10 @@ h1{
 .logo{
   display:flex;
   align-items: center;
-  background: #red;
-  height: 62px;
+  background: #000;
+  height: 75px;
   width: 300px;
   
-  border-radius: 50px;
   
 }
 
@@ -46,9 +45,8 @@ img{
 }
 
 .title{
-  background:#red;
+  background:#000;
   display: flex;
-  align-content: center;
   align-items: center;
   height: 75px;
   width: 300px;
@@ -59,21 +57,21 @@ img{
   
 }
 .links{
-  background:#red;
+  background:#000;
   display: flex;
-  justify-content: space-around;
-  align-content: center;
-  align-items: center;
+  
   width: 300px;
   height:75px;
   
   
 }
 .list{
+  display:flex;
   height:75px;
   width:300px;
-  background:#red;
-  display:flex;
+  align-content: center;
+  align-items: center;
+  background:#000;
   padding: 5px;
   gap: 5px;
   
