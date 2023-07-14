@@ -25,7 +25,7 @@ h1{
   background: #000;
   height: 45px;
   width: 300px;
-  background: red;
+  
   border-radius: 50px;
   
 }
@@ -48,7 +48,8 @@ img{
   height: 60px;
   width: 300px;
   color:#fff;
-  background: red;
+
+  
   
   
 }
@@ -59,7 +60,7 @@ img{
   align-items: center;
   width: 300px;
   height:60px;
-  background: red;
+  
   
   
   
