@@ -41,7 +41,7 @@ img{
   font-size: 32px;
   align-content: center;
   align-items: center;
-  font-size: 22px;
+  
   background:#000;
 }
 
@@ -53,7 +53,7 @@ img{
   height: 60px;
   width: 300px;
   color:#fff;
-
+  font-size: 22px;
   
   
   
