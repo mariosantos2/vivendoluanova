@@ -35,8 +35,8 @@ img{
   border-radius:50px;
 }
 .nome{
-  display:flex;
-  
+  align-content: center;
+  align-items: center;
   font-size: 22px;
 }
 
