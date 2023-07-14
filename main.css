@@ -24,7 +24,7 @@ h1{
 .logo{
   display:flex;
   align-items: center;
-  background: #000;
+  background: #red;
   height: 62px;
   width: 300px;
   
@@ -42,11 +42,11 @@ img{
   align-content: center;
   align-items: center;
   
-  background:#000;
+  background:#red;
 }
 
 .title{
-  background:#000;
+  background:#red;
   display: flex;
   align-content: center;
   align-items: center;
@@ -70,7 +70,7 @@ img{
   
 }
 .list{
-  background:#000;
+  background:#red;
   display:flex;
   padding: 5px;
   gap: 5px;
