@@ -18,12 +18,16 @@ a{
 
 .logo{
   background: #000;
-  height: 60px;
-  width: 20vw;
+  height: 45px;
+  width: 45px;
   background: red;
   
 }
 .maria{
+  height: 45px;
+  width: 45px;
+}
+img{
   height: 45px;
   width: 45px;
 }
