@@ -107,8 +107,9 @@ img{
   margin-top:75px;
 }
 .navegacao{
+  padding-top: 20px;
   display: flex;
-  height:500px;
+  width:70px;
   flex-direction:column;
   text-align: flex-start;
   background:#fff;
