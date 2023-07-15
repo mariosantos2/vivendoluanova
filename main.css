@@ -1,6 +1,6 @@
 *{
   margin:0;
-  height:5000px;
+  
   
 }
 body{
@@ -125,6 +125,6 @@ img{
   display: flex;
   flex-direction: column;
   text-align: flex-start;
-  padding-left:10px;
+  
   
 }
