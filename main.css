@@ -1,14 +1,5 @@
 
-*{
-  margin:0;
-}
-}
-body{
-  margin:0;
-  background: #191919; 
-}
 li{
-  
   list-style:none;
   background: #a9cae1
 }
@@ -16,7 +7,7 @@ a{
   text-align: center;
   text-decoration: none;
   color:#fff;
-  font-size: 26px;
+  font-size: 22px;
   background:#a9cae1;
 }
 h1{
