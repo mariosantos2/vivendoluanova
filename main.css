@@ -111,7 +111,7 @@ img{
   margin: 0;
   display: flex;
   flex-direction: column;
-  
+  text-align: flex-start;
   height:100vh;
   width:12vw;
   background:#a9cae1;
@@ -124,8 +124,7 @@ img{
   background:#a9cae1;
   padding-top: 70px;
   display: flex;
-  flex-direction: column;
-  text-align: flex-start;
+  
   
   
 }
