@@ -129,11 +129,23 @@ img{
   
 }
 
-@media (max-widht:400px){
+@media (max-widht:400px) {
   .cabecalho{
     height:75px;
     }
-  .
+  .logo{
+    width:80px;
+  }
+  .nome{
+    width:80px;
+  }
+  .links{
+    width:80px
+  }
+  .list{
+    width:80px;
+  }
+  
   img{
     height:45px;
   }
