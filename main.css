@@ -88,7 +88,7 @@ img{
   width:12vw;
   background: #000;
   display: block;
-  text-align: center;
+  
   
 }
 .lateral{
@@ -114,6 +114,6 @@ img{
   padding-top: 12px;
   gap:20px;
   display: block;
-  align-items: center;
+  text-align: center;
   
 }
