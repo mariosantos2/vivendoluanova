@@ -5,6 +5,10 @@
 body{
   background: #191919; 
 }
+li{
+  list-style:none;
+  background: #a9cae1
+}
 a{
   text-align: center;
   text-decoration: none;
@@ -94,7 +98,7 @@ img{
   display: flex;
   border-right:#000;
   position:fixed;
-  right:0;
+  left:0;
   
 }
 
