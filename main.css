@@ -1,3 +1,4 @@
+
 *{
   margin:0;
 }
@@ -129,23 +130,24 @@ img{
   
 }
 
+  
 
 @media (max-width:600px) {
   .cabecalho{
-    height:75px;
+    height:65px;
   }
   .logo{
-    width:80px;
+    width:50px;
   }
   .nome{
-    font-size: 30px; /* Reduzir o tamanho da fonte */
-    width:80px;
+    font-size: 22px; /* Reduzir o tamanho da fonte */
+    width:50px;
   }
   .links{
-    width:80px
+    width:50px
   }
   .list{
-    width:80px;
+    width:50px;
   }
   
   img{
