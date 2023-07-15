@@ -129,14 +129,17 @@ img{
   
 }
 
-@media (max-widht:600px) {
+
+
+@media (max-width:600px) {
   .cabecalho{
     height:75px;
-    }
+  }
   .logo{
     width:80px;
   }
   .nome{
+    font-size: 30px; /* Reduzir o tamanho da fonte */
     width:80px;
   }
   .links{
@@ -146,7 +149,7 @@ img{
     width:80px;
   }
   
-  .img{
+  img{
     height:45px;
   }
   #menu-lateral{
@@ -158,5 +161,4 @@ img{
   .div-nav{
     width: 50px;
   }
-  
 }
