@@ -108,6 +108,7 @@ img{
 }
 .navegacao{
   display: flex;
+  height:500px;
   flex-direction:column;
   text-align: flex-start;
   background:#fff;
