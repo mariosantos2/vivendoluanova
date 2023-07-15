@@ -1,11 +1,13 @@
 h1{
-   color: #fff;
-   font-size: 22px;
+   color: #ff6f9c;
+   font-size: 26px;
    font-family: 'Pinyon Script', cursive;
 }
 a{
   text-decoration: none;
-  color: #fff;
+  color: #ff6f9c;
+  font-size: 20px;
+  
 }
 body{
   background:#a9cae1;
@@ -34,7 +36,3 @@ img{
   border-radius:50px;
 }
  
-.menu{
-  
-  
-}
