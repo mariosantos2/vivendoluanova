@@ -113,7 +113,7 @@ img{
   background:#92229;
   padding-top: 12px;
   gap:20px;
-  display: block;
+  display: flex;
   text-align: center;
   
 }
