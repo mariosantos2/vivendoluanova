@@ -13,4 +13,13 @@ header{
   top:0;
   display: flex;
   justify-content:space-around;
+  align-items:center;
+}
+.logo{
+  height:45px;
+  width:45px;
+  border-radius:50px;
+}
+img{
+  border-radius:50px;
 }
