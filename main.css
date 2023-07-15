@@ -72,3 +72,9 @@ img{
   box-shadow: 0px 5px 10px #000;
   
 }
+.foto2{
+  padding-bottom:25px;
+  height:19px;
+  width:19px;
+  border-radius: 50px;
+}
