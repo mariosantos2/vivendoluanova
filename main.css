@@ -113,7 +113,8 @@ img{
   background:#92229;
   padding-top: 12px;
   gap:20px;
-  display: flex;
+  display: block;
+  flex-direction: column;
   text-align: center;
   
 }
