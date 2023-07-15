@@ -118,10 +118,10 @@ img{
 }
 .list_lat{
   margin:0;
-  height:100vh;
+  height: 300px;
   width: 12vw;
   background:#a9cae1;
-  padding-top: 12px;
+  padding-top: 70px;
   display: flex;
   flex-direction: column;
   text-align: flex-start;
