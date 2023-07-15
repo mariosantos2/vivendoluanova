@@ -1,5 +1,6 @@
 *{
   margin:0;
+  height:5000px;
   
 }
 body{
@@ -110,7 +111,7 @@ img{
   display: flex;
   flex-direction: column;
   
-  height:500px;
+  height:100vh;
   width:12vw;
   background:#a9cae1;
   
