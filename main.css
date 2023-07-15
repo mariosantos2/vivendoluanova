@@ -24,12 +24,19 @@ h1{
   width:100vw;
   height: 60px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   border-bottom: 1px solid #000;
   
   /*position:fixed;*/
   top:0;
+}
+#cab{
+  display:flex;
+  width:280px;
+  height:60px;
+  justify-content: space-around;
+  align-items:center;
 }
 
 .logo{
@@ -38,6 +45,7 @@ h1{
   background: #a9cae1;
   height: 49px;
   width: 49px;
+  border-radius:50px;
   
   
   
@@ -50,24 +58,19 @@ img{
   object-fit: cover;
 }
 .nome{
-  font-size: 46px;
+  color:#fff;
+  font-size: 18px;
   display: flex;
   align-content: center;
   align-items: center;
-  height: 75px;
-  width:70px;
+  height: 60px;
+  width:130px;
+  
   background:#a9cae1;
   
 }
 
-.title{
-  background:#a9cae1;
-  display: flex;
-  align-items: center;
-  height: 60px;
-  width: 50px;
-  color:#fff;
-  font-size: 22px;
+
   
   
   
