@@ -101,6 +101,9 @@ img{
   padding:50px 5px 5px 5px;
   background: #000;
   padding-top: 20px;
+  position:fixed;
+  top: 0;
+  left:0;
 }
 .div-nav{
   height: 100vh;
