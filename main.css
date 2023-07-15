@@ -112,8 +112,10 @@ img{
   position: fixed;
   top: 0;
   left: 0;
-  height: 100vh;
+  height: 300px;
   display: flex;
+  align-content: center;
+  justify-content: center;
   width: 110px;
   flex-direction:column;
   text-align: flex-start;
