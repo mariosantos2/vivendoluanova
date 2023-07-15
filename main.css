@@ -104,7 +104,7 @@ img{
   width:70px;
   display:flex;
   background:#000;
-  padding-top: 76px;
+  margin-top:75px;
 }
 .navegacao{
   display: flex;
