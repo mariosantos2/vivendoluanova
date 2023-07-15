@@ -1,4 +1,7 @@
-
+*{
+  margin:0px;
+  
+}
 li{
   list-style:none;
   background: #a9cae1
@@ -7,24 +10,25 @@ a{
   text-align: center;
   text-decoration: none;
   color:#fff;
-  font-size: 22px;
+  font-size: 18px;
   background:#a9cae1;
 }
 h1{
+  font-size:22px;
   text-align: center;
   font-family: 'Pinyon Script', cursive;
   
 }
 .cabecalho{
   background: #a9cae1;
-  width: 100vw;
+  width:100vw;
   height: 60px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
   border-bottom: 1px solid #000;
   
-  position:fixed;
+  /*position:fixed;*/
   top:0;
 }
 
@@ -51,7 +55,7 @@ img{
   align-content: center;
   align-items: center;
   height: 75px;
-  width:50px;
+  width:70px;
   background:#a9cae1;
   
 }
@@ -89,7 +93,7 @@ img{
 #menu-lateral{
   margin-top: 90px;
   height: 100vh;
-  width: 20vw;
+  width: 10vw;
   display: flex;
   flex-direction: column;
   padding: 50px 5px 5px 5px;
@@ -101,7 +105,7 @@ img{
 }
 .div-nav{
   height: 100vh;
-  width: 20vw;
+  width: 10vw;
   display: flex;
   background: #000;
   margin-top: 75px;
@@ -114,7 +118,7 @@ img{
   display: flex;
   align-content: center;
   justify-content: center;
-  width: 20vw;
+  width: 10vw;
   flex-direction:column;
   text-align: flex-start;
   background:#fff;
@@ -132,7 +136,7 @@ img{
     width:50px;
   }
   .nome{
-    font-size: 22px; /* Reduzir o tamanho da fonte */
+    font-size: 18px; /* Reduzir o tamanho da fonte */
     width:50px;
   }
   .links{
