@@ -105,6 +105,7 @@ img{
   display:flex;
   background:#000;
   margin-top:75px;
+  padding-top: 20px;
 }
 .navegacao{
   position: fixed;
