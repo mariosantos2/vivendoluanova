@@ -32,6 +32,7 @@ h1{
   background: #a9cae1;
   height: 75px;
   width: 300px;
+  object-fit: cover;
   
   
 }
@@ -86,7 +87,7 @@ img{
   margin:0;
   height:100vh;
   width:12vw;
-  background: #000;
+  background: #a9cae1;
   display: flex;
   
   
@@ -100,16 +101,15 @@ img{
   
   height:500px;
   width:12vw;
-  background:#000;
+  background:#a9cae1;
   
 }
 .list_lat{
   margin:0;
   height:100vh;
   width: 12vw;
-  background:#92229;
+  background:#a9cae1;
   padding-top: 12px;
-  
   display: flex;
   flex-direction: column;
   text-align: flex-start;
