@@ -96,8 +96,7 @@ img{
 .menu_lat{
   margin: 0;
   display: flex;
-  align-content: center;
-  align-items: center;
+  flex-direction: column;
   
   height:500px;
   width:12vw;
@@ -111,7 +110,7 @@ img{
   background:#92229;
   padding-top: 12px;
   
-  display: block;
+  display: flex;
   flex-direction: column;
   text-align: center;
   
