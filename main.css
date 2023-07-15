@@ -96,6 +96,8 @@ img{
 .menu_lat{
   margin: 0;
   display: flex;
+  align-content: center;
+  align-items: center;
   
   height:500px;
   width:12vw;
