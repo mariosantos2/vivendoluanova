@@ -68,19 +68,21 @@ img{
   padding-right: 10px;
 }
 
+
+
 .menu2{
-  
+  width:18vw;
   height:100vh;
-  padding-top: 65px;
+  padding:15px;
   padding-left: 5px;
   display:flex;
   flex-direction:column; 
-  background: #fff;
+  background: #a9cae1;
   border-bottom:1px solid #000;
   box-shadow: 0px 5px 10px #000;
   position: fixed;
-  top:60px;
-  
-  
+  top:51px;
+}
+.link{
   
 }
