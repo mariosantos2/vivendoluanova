@@ -29,7 +29,7 @@ body{
 header{
   height: 50px;
   width: 100%;
-  max-width: 980px;
+  max-width: 1000px;
   background: #000;
   position:fixed;
   top:0;
@@ -99,7 +99,7 @@ header{
   
 }
 .poema{
-  height: 300;
+  height: 300vh;
   width: 100px;
   margin-top: 20px;
   
@@ -118,7 +118,7 @@ h2{
 
 media screen and (max-width: 490px) {
   header{
-  
+    justify-content: space-between;
     height: 55px;
     
   }
@@ -126,7 +126,7 @@ media screen and (max-width: 490px) {
   
 @media screen and (max-width: 490px) {
   header .logo #img{
-    justify-content: space-between;
+    
     height:45px;
     width: 45px;
   }
