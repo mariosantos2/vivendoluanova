@@ -6,7 +6,7 @@ h1{
 a{
   text-decoration: none;
   color: #ff6f9c;
-  font-size: 18px;
+  font-size: 16px;
   width: 20%;
   
   
@@ -17,7 +17,7 @@ a{
   
 }
 body{
-  background:#a9cae1;
+  background:#000;
   display: flex;
   margin:0;
   width: 100%;
@@ -26,14 +26,14 @@ header{
   height: 50px;
   width: 100%;
   max-width: 980px;
-  background: #a9cae1;
+  background: #000;
   position:fixed;
   top:0;
   display: flex;
   justify-content:space-between;
   align-items:center;
-  border-bottom:1px solid #000;
-  box-shadow: 5px 0px 10px #000;
+  border-bottom:1px solid #fff;
+  /*box-shadow: 5px 0px 10px #000;*/
   
 }
 .logo{
@@ -52,14 +52,14 @@ img{
 .nome{
   height: 100vh;
   width:  100vw;
-  background: red;
+  background:#000;
 }
 
 /* Parte do menu lateral*/
 .conteiner{
-  background:#a9cae1;
+  background:#000;
   height:100vh;
-  width: 18vw;
+  width: 8vw;
   display: flex;
   flex-direction:column;
  
@@ -71,18 +71,15 @@ img{
 
 
 .menu2{
-  width:18vw;
+  width:8vw;
   height:100vh;
   padding:15px;
   padding-left: 5px;
   display:flex;
   flex-direction:column; 
-  background: #a9cae1;
-  border-bottom:1px solid #000;
-  box-shadow: 0px 5px 10px #000;
+  background: #000;
+ border-right: 1px solid #fff;
+ /* box-shadow: 0px 1px 10px #a9cae1;*/
   position: fixed;
   top:51px;
-}
-.link{
-  
 }
