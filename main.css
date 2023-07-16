@@ -29,7 +29,6 @@ body{
 header{
   height: 50px;
   width: 100%;
-  max-width: 1000px;
   background: #000;
   position:fixed;
   top:0;
