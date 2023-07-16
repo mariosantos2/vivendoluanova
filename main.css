@@ -1,9 +1,11 @@
 h1{
    color:#000 ;
+   
    font-size: 56px;
    font-family: 'Pinyon Script', cursive;
    
 }
+
 a{
   text-decoration: none;
   color: #fff;
@@ -60,6 +62,7 @@ header{
   align-items:center;
   justify-content: center;
   position:fixed;
+  opacity: 4;
   top:0px;
 }
 .menu{
@@ -67,8 +70,9 @@ header{
   
 }
 .cont{
-  background-image: url(fundo.jpg);
-  background-size:cover;
+ /* background-image: url(fundo.jpg);
+  background-size:cover;*/
+  background:#fff;
   object-fit:cover;
   height:100vh;
   width:100vw;
@@ -76,4 +80,21 @@ header{
   position:fixed;
   top:0px;
   
+  
+}
+.poemas{
+  displey: flex;
+  flex-direction:column;
+  
+  margin-top:110px;
+}
+.poema{
+  height:200px;
+  width:200px;
+  
+  
+}
+h2{
+  color:#000;
+  margin-top:75px;
 }
