@@ -42,8 +42,8 @@ header {
 }
 
 .logo {
-  height: 55px;
-  width: 55px;
+  height: 50px;
+  width: 50px;
   border-radius:50px;
   padding-left: 20px;
   
@@ -54,8 +54,8 @@ object-fit: contain;
 }
 
 #img {
-  height: 55px;
-  width: 55px;
+  height: 50px;
+  width: 50px;
   border-radius: 50px;
 /* Removendo a duplicação de estilos, pois eles já estão definidos na classe .logo */
 }
@@ -69,8 +69,7 @@ object-fit: contain;
 background:#fff;
 height:100vh;
 width:100%;
-margin-top: 0px;
-top: 0px;
+top: 90px;
 display:flex;
 flex-direction:column; 
 }
@@ -80,7 +79,7 @@ flex-direction:column;
   display:flex;
   background: #000;
   opacity: 0.5;
-  height: 5.4vh;
+  height: 4vh;
   width: 100%;
 }
 
@@ -91,11 +90,13 @@ width:100%;
 height:100vh;
 margin-top:60px;
 text-align:center; 
+top: 90px;
 }
 .poema{
 height:100vh;
 width:100%;
 margin-top:20px; 
+top: 90px;
 }
 
 h2{
