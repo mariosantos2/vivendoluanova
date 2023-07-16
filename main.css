@@ -56,7 +56,7 @@ header{
 }
 .nome{
   background:#000;
-  height: 5vh;
+  height: 12vh;
   width:  100vw;
   opacity: 5;
   margin-top:51px;
@@ -66,7 +66,7 @@ header{
   justify-content: center;
   position:fixed;
   opacity: 4;
-  top: 15px;
+  top: 0px;
 }
 .menu{
   padding-right: 20px;
@@ -168,7 +168,9 @@ media screen and (max-width: 500px) {
 
 media screen and (max-width: 500px) {
   .nome{
+   height:5vh;
    margin-top:220px;
+   top: 15px;
    
   }
 }
