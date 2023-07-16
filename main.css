@@ -58,8 +58,16 @@ img{
   display:flex;
   align-items:center;
   justify-content: center;
+  position:fixed;
+  top:3px;
 }
 .menu{
   padding-right: 20px;
   
+}
+.cont{
+  background:blue;
+  height:100vh;
+  width:100vw;
+  margin-top:90px;
 }
