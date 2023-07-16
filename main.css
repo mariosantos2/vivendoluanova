@@ -116,62 +116,64 @@ h2{
 }
 
 
-
-@media screen and (max-width: 500px) {
+media screen and (max-width: 490px) {
   header{
-    justify-content:space-evenly;
-    height:65px;
+  
+    height: 55px;
+    
+  }
+
+@media screen and (max-width: 490px) {
+  header .logo #img{
+    justify-content: space-around;
+    height:45px;
+    width: 45px;
   }
 
 
-media screen and (max-width: 500px) {
+media screen and (max-width: 490px) {
   .logo{
-  height:45px;
-  width:45px;
+  height:50px;
+  width:50px;
   }
 }
 
 
 
 
-media screen and (max-width: 500px) {
+media screen and (max-width: 490px) {
   .cont{
    width:500px;
+   top:40px;
+  
    
   }
 }
-media screen and (max-width: 500px) {
-  .img{
-  height:45px;
-  width:45px;
-  }
-}
-
-
-media screen and (max-width: 500px) {
-  .img{
-  height:45px;
-  width:45px;
+media screen and (max-width: 490px) {
+  #img{
+  height:50px;
+  width:50px;
   }
 }
 
 
 
-media screen and (max-width: 500px) {
+
+
+
+media screen and (max-width: 490px) {
   .a{
   font-size: 28px;
-  width: 45%;
+  
   
   }
 }
 
 
-media screen and (max-width: 500px) {
+media screen and (max-width: 490px) {
   .nome{
-   height:12vh;
-   margin-top:220px;
-   top: 15px;
-   
+   height:40px;
+   background: #a91ca1;
   }
 }
 
