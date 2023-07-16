@@ -34,7 +34,7 @@ header{
   position:fixed;
   top:0;
   display: flex;
-  justify-content:space-between;
+  justify-content:space-around;
   align-items:center;
   border-bottom: 1px solid #fff;
   box-shadow: 0px 1px 2px #fff;
@@ -126,7 +126,7 @@ media screen and (max-width: 490px) {
   
 @media screen and (max-width: 490px) {
   header .logo #img{
-    justify-content: space-around;
+    justify-content: space-between;
     height:45px;
     width: 45px;
   }
