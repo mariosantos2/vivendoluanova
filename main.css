@@ -54,6 +54,8 @@ object-fit: contain;
 }
 
 #img {
+  height: 55px;
+  width: 55px;
   border-radius: 50px;
 /* Removendo a duplicação de estilos, pois eles já estão definidos na classe .logo */
 }
