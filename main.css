@@ -113,16 +113,17 @@ h2{
 @media (max-width: 490px) {
   header{
     max-width:490;
-    height:75px;
+    height: 62px;
     justify-content:space-between;
+    
     
   }
     
 }
 @media (max-width: 490px) {
   .logo #img{
-    height:55px;
-    width: 55px;
+    height:50px;
+    width: 50px;
   }
 }
 
@@ -131,6 +132,11 @@ h2{
 
 
 @medeia (max-width: 490px) {
+  
+    
+  }
+    
+  }
   
   }
   
