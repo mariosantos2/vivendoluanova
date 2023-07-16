@@ -1,6 +1,6 @@
 h1{
-   color:#fff ;
-   font-size: 26px;
+   color:#000 ;
+   font-size: 56px;
    font-family: 'Pinyon Script', cursive;
    
 }
@@ -51,9 +51,9 @@ header{
   object-fit: cover;
 }
 .nome{
-  height: 8vh;
+  height: 15vh;
   width:  100vw;
-  background:#000;
+  opacity: 5;
   margin-top:51px;
   text-align: center;
   display:flex;
@@ -69,9 +69,10 @@ header{
 .cont{
   background-image: url(fundo.jpg);
   background-size:cover;
+  
   height:100vh;
   width:100vw;
-  margin-top:100px;
+  margin-top:50px;
   position:fixed;
   top:0px;
   
