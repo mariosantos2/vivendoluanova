@@ -56,7 +56,7 @@ header{
 }
 .nome{
   background:#000;
-  height: 12vh;
+  height: 5vh;
   width:  100vw;
   opacity: 5;
   margin-top:51px;
@@ -168,7 +168,7 @@ media screen and (max-width: 500px) {
 
 media screen and (max-width: 500px) {
   .nome{
-   height:5vh;
+   height:12vh;
    margin-top:220px;
    top: 15px;
    
