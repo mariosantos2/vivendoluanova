@@ -85,8 +85,9 @@ header{
 .poemas{
   displey: flex;
   flex-direction:column;
-  
   margin-top:110px;
+  position:fixed;
+  top:0;
 }
 .poema{
   height:200px;
