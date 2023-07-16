@@ -57,17 +57,17 @@ header{
 }
 .nome{
   background:#000;
-  height: 5vh;
+  height: 4vh;
   width:  100%;
   opacity: 5;
-  margin-top: 60px;
+  margin-top: 62px;
   text-align: center;
   display:flex;
   align-items:center;
   justify-content: center;
   position:fixed;
   opacity: 4;
-  top: 8px;
+  top: 13.9px;
 }
 .menu{
   padding-right: 20px;
