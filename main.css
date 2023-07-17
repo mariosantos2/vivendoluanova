@@ -1,4 +1,3 @@
-/* Adicionando espaço entre os seletores para melhorar a legibilidade */
 h1 {
    color: #fff;
    font-size: 23px;
@@ -69,7 +68,7 @@ object-fit: contain;
 background:#fff;
 height:100vh;
 width:100%;
-margin-top: 60px;
+margin-top: 95px;
 display:flex;
 flex-direction:column; 
 }
@@ -77,26 +76,37 @@ flex-direction:column;
   position: fixed;
   top: 60px;
   display:flex;
+  justify-content: center;
   background: #000;
-  opacity: 0.5;
+  opacity: 0.7;
   height: 2vh;
   width: 100%;
+  
+  
 }
 
 .poemas {
 display:flex;
 flex-direction:column;
-width:100%;
-height:100vh;
-margin-top:60px;
-text-align:center; 
+align-items: center;
+width:90%;
+height: 100%;
+text-align: center;
+background: blue;
+margin: auto;
+
 top: 90px;
 }
 .poema{
-height:100vh;
-width:100%;
+height: 100%;
+width: 80%;
 margin-top:20px; 
-top: 90px;
+display: block;
+align-items: center;
+border-radius: 8px;
+
+
+background: red;
 }
 
 h2{
