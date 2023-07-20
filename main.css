@@ -97,7 +97,7 @@ main
 .main{
   background: red;
   height: 100vh;
-  width: 75%;
+  width: 70%;
   margin-left: auto;
   margin-right: auto;
   margin-top: 80px;
@@ -121,7 +121,7 @@ main
 
 .title{
  
-  width: 48%;
+  width: 50%;
   background: #002942;
   display: flex;
   flex-direction: column;
@@ -146,7 +146,7 @@ h2{
   
 }
 .img{
-  width: 48%;
+  width: 50%;
   background: #002942;
   display: flex;
   flex-direction: column;
