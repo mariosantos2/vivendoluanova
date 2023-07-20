@@ -49,7 +49,6 @@ a{
   font-family: 'Galada', cursive;
   font-size: 1rem;
   padding-top: 4px;
-  padding-right: 5vw;
   
   
 }
@@ -60,7 +59,7 @@ a{
   align-items: center;
   font-family: 'Galada', cursive;
   font-size: 1rem;
-  padding-right: 5vw;
+  
   padding-top: 4px;
   
   
@@ -98,18 +97,13 @@ main
 .main{
   background: #002942;
   height: 100vh;
-  width: 60vw;
+  width: 75vw;
   margin-left: auto;
   margin-right: auto;
   margin-top: 80px;
- 
-  
-  
-  
-  
-  
-  
-  
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
 }
 
 .tit{
@@ -119,11 +113,9 @@ main
   display: flex;
   align-content:center; 
   justify-content: center;
-  gap: 60px;
- 
-  
-  
-  
+ /* gap: 15px; */
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .title{
@@ -133,25 +125,6 @@ main
   display: flex;
   flex-direction: column;
   justify-content: flex-start; 
- 
-  
-  
-
-  
-  
-  
-}
-
-.title2{
-  
-  width: 20%;
-  background: #002942;
-  display: flex;
-  
-  flex-direction: column;
-  justify-content: flex-start;
-  
-  
 }
 
 h2{
